@@ -1,0 +1,6 @@
+This repository contains the files for my implementation of Particle Swarm Optimization, based on "Real Time Object Tracking on Video Image Sequence Using Particle Swarm Optimization".
+
+The program creates a random video with a green object in a black background. The object moves and is occluded by a white object.
+The main goal is to use PSO to track the movement of the green object.
+
+This program needs OpenCV in order to work.
